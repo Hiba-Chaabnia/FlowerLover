@@ -15,7 +15,7 @@ This project includes:
     <tr>
       <th></th>
       <th>Notebook</th>
-      <th>Open in Colab</th>
+      <th>Colab Link</th>
     </tr>
   </thead>
   <tbody>
