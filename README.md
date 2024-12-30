@@ -11,13 +11,6 @@ This project includes:
 ## 📑 Notebooks 
 
   <table cellpadding="10" cellspacing="0">
-  <thead>
-    <tr>
-      <th></th>
-      <th>Notebook</th>
-      <th>Colab Link</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><strong>Set up your workspace</strong></td>
@@ -82,13 +75,21 @@ This project includes:
 </table>
 
 
-
 ## 🛠️ Setup Instructions  
 
 1. Open the [Google Drive](https://drive.google.com/drive/folders/168E2L-SF8RrSwjkAbO5ENki4J_jsZQDg?usp=drive_link) folder and locate `FlowerLover.zip`.  
 2. Right-click `FlowerLover.zip` and select **Make a Copy**. Note the file's name and path.  
 3. Use the provided script in `Get Started.ipynb` to set up your workspace.  
-4. Follow the notebooks in the order listed in the table to explore, recommend, and classify flowers.  
+4. Follow the notebooks in the order listed in the table to explore, recommend, and classify flowers.
+
+
+## 💐 Flower Classifier Streamlit App  
+
+You can download the **Flower Classifier Streamlit App** to test the classification model yourself! Simply download the ZIP file from [this link](https://drive.google.com/file/d/1TTJku6zMNGmFahlJeLrsQ1mOmOkU17Vz/view?usp=drive_link) and follow the included instructions to run the app locally.  
+
+## 🕸️ Sneak Peek into FlowerLover Neo4j Knowledge Graph  
+
+If you're interested in exploring the FlowerLover Neo4j Knowledge Graph, feel free to reach! I can invite you as a viewer on Neo4j Aura to see the graph in action.
 
 
 ## 🌟 Stay Updated  
@@ -99,7 +100,7 @@ If you find this project helpful, don’t forget to ⭐ star the repository for 
 
 ## 📬 Contact  
 
-For questions or feedback, feel free to reach out via the [Issues](https://github.com/Hiba-Chaabnia/FlowerLover/issues) page or contact me directly.
+For questions or feedback, contact me directly via:
 
 <p align="left">
   <a href="https://linkedin.com/in/hiba-chaabnia" target="_blank">
