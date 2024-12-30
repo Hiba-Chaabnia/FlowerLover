@@ -10,7 +10,7 @@ This project includes:
 
 ## 📑 Notebooks 
 
-  <table cellpadding="10" cellspacing="0">
+  <table cellpadding="4" cellspacing="0">
   <tbody>
     <tr>
       <td><strong>Set up your workspace</strong></td>
