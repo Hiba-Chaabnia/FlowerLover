@@ -10,7 +10,7 @@ This project includes:
 
 ## 📑 Notebooks 
 
-  <table border="1" cellpadding="10" cellspacing="0">
+  <table cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th></th>
