@@ -87,7 +87,7 @@ This project includes:
 
 1. Open the [Google Drive](https://drive.google.com/drive/folders/168E2L-SF8RrSwjkAbO5ENki4J_jsZQDg?usp=drive_link) folder and locate `FlowerLover.zip`.  
 2. Right-click `FlowerLover.zip` and select **Make a Copy**. Note the file's name and path.  
-3. Use the provided script in `Get Started.ipynb` to mount your Google Drive.  
+3. Use the provided script in `Get Started.ipynb` to set up your workspace.  
 4. Follow the notebooks in the order listed in the table to explore, recommend, and classify flowers.  
 
 
