@@ -10,14 +10,14 @@ This project includes:
 
 ## 📑 Notebooks 
 
-  <table cellpadding="4" cellspacing="0">
+<table cellpadding="10" cellspacing="0">
   <tbody>
     <tr>
       <td><strong>Set up your workspace</strong></td>
       <td><strong>Get Started.ipynb</strong></td>
       <td>
         <a href="https://colab.research.google.com/drive/14SCxXhtTBATahugg3EprYhrqpgpeimKc#scrollTo=WxPp0h60r8o9">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="width:150px; height:auto;" />
         </a>
       </td>
     </tr>
@@ -26,7 +26,7 @@ This project includes:
       <td><strong>Oxford 102 Flowers Dataset Loading.ipynb</strong></td>
       <td>
         <a href="https://colab.research.google.com/drive/1v-Wzfp2enPsXTZ_8a52BQzRNbUdJpqyu#scrollTo=l4kTZMWbr0Me">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="width:150px; height:auto;" />
         </a>
       </td>
     </tr>
@@ -34,7 +34,7 @@ This project includes:
       <td><strong>Flower Classifier - CNN.ipynb</strong></td>
       <td>
         <a href="https://colab.research.google.com/drive/1GQ0hhMrbGJNPF069SSJ9oJsyH3pR7zjJ#scrollTo=fkFbnLRHrQz4">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="width:150px; height:auto;" />
         </a>
       </td>
     </tr>
@@ -42,7 +42,7 @@ This project includes:
       <td><strong>Flower Classifier - ViT.ipynb</strong></td>
       <td>
         <a href="https://colab.research.google.com/drive/1UaGOtIEAbSN7iMiazqOOLcgcp0kaXW7o#scrollTo=RozLbvuvqG2x">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="width:150px; height:auto;" />
         </a>
       </td>
     </tr>
@@ -50,7 +50,7 @@ This project includes:
       <td><strong>Flower Classifier - Test Your Own Images.ipynb</strong></td>
       <td>
         <a href="https://colab.research.google.com/drive/10WQw-s7EQtb_B9Kg8h-_zydX3mC0tZRh">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="width:150px; height:auto;" />
         </a>
       </td>
     </tr>
@@ -59,7 +59,7 @@ This project includes:
       <td><strong>FlowerLover Knowledge Graph Creation using Neo4j.ipynb</strong></td>
       <td>
         <a href="https://colab.research.google.com/drive/1KXlDRGJ_EAenB3d4dX5PxaA6Q_HO4qph#scrollTo=vQiLdRGcsLzh">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="width:150px; height:auto;" />
         </a>
       </td>
     </tr>
@@ -67,12 +67,13 @@ This project includes:
       <td><strong>FlowerLover Recommendation System.ipynb</strong></td>
       <td>
         <a href="https://colab.research.google.com/drive/1vILZZS2X-p9TxX8GoxpJ4vx2AFXoyn33#scrollTo=FmQxPYuNsGud">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="width:150px; height:auto;" />
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## 🛠️ Setup Instructions  
